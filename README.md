@@ -1,7 +1,8 @@
-#Awesome AI-In-Finance
+# Awesome AI-In-Finance
 
 ![https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![https://img.shields.io/badge/License-GPLv3.0-turquoise.svg](https://img.shields.io/badge/License-GPLv3.0-turquoise.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Introduction
 
