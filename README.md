@@ -110,11 +110,10 @@ Welcome to star & submit a PR to this repo!
 ```
 
 ```
-@misc{Awesome-LLM-Trading@2024,
-  title={Awesome-LLM-Trading: A curated list of Awesome LLM Trading Papers with Codes},
-  url={https://github.com/Persdre/Awesome-LLM-Trading-Papers},
-  note={Open-source software available at https://github.com/Persdre/Awesome-LLM-Trading-Papers},
-  author={Qian Wang, etc},
+@misc{Awesome-AI-In-Finance@2024,
+  title={Awesome-AI-In-Finance},
+  url={https://github.com/ihobbang250/Awesome-AI-in-Finance},
+  author={H. Lee},
   year={2024}
 }
 ```
