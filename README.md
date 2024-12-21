@@ -10,10 +10,10 @@ Welcome to **Awesome-LLM-.** a curated collection of high-quality papers explori
 
 ## Contents
 1. [Financial AI](#financial-ai)
-   - [Prediction](###prediction)
+   - [Prediction](##prediction)
    - [Portfolio Optimization](##portfolio-optimization)
-   - [Quantitative Trading](###quantitative-trading)
-   - [Datasets](###datasets)
+   - [Quantitative Trading](##quantitative-trading)
+   - [Datasets](##datasets)
    - [Simulation](###simulation)
    - [Survey](###survey)
 2. [LLM Core](##llm-core)
