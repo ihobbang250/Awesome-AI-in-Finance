@@ -9,20 +9,17 @@
 ---
 
 ## Contents
-1. [Financial AI](#financial-ai)
-   - [📈Prediction](#prediction)
-   - [💰Investment Management](#investment-management)
-   - [🔁Trading](#trading)
-   - [🤖Simulation](#simulation)
-   - [🤔Reasoning](#reasoning)
-   - [📁Datasets](#datasets)
-   - [📚Survey](#survey)
+- [📈Prediction](#prediction)
+- [💰Investment Management](#investment-management)
+- [🔁Trading](#trading)
+- [🤖Simulation](#simulation)
+- [🤔Reasoning](#reasoning)
+- [📁Datasets](#datasets)
+- [📚Survey](#survey)
    
 ---
 
-## Financial AI
-
-### 📈Prediction
+## 📈Prediction
 
 - Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting, *KDD'25* [[Paper](https://arxiv.org/pdf/2409.15662)]
 - CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph, *AAAI'24* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770)]
@@ -40,14 +37,14 @@
 - Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models, *WWW'24* [[Paper](https://arxiv.org/abs/2402.03659)]
 - FinReport: Explainable Stock Earnings Forecasting via News Factor Analyzing Model, *WWW'24* [[Paper](https://arxiv.org/abs/2403.02647)]
 
-### 💰Investment Management
+## 💰Investment Management
 
 - Mitigating Extremal Risks: A Network-Based Portfolio Strategy, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2409.12208v1)]
 - Temporal Representation Learning for Stock Similarities and Its Applications in Investment Management, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2407.13751)]
 - Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools, *WWW'24* [[paper](https://arxiv.org/pdf/2311.10801)]
 - FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition, *KDD'24* [[paper](https://dl.acm.org/doi/10.1145/3637528.3671668)]
 
-### 🔁Trading
+## 🔁Trading
 
 - EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.12891)]
 - Can Large Language Models Mine Interpretable Financial Factors More Effectively? A Neural-Symbolic Factor Mining Agent Model, *ACL’24* [[Paper](https://aclanthology.org/2024.findings-acl.233.pdf)]
@@ -60,32 +57,32 @@
 - MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading, *KDD'24* ([Paper](https://arxiv.org/pdf/2406.14537))
 - StockFormer: Learning Hybrid Trading Machines with Predictive Coding, *IJCAI'23* ([Paper](https://www.ijcai.org/proceedings/2023/0530.pdf))
 
-### 🤖Simulation
+## 🤖Simulation
 
 - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, *ACL'24* ([Paper](https://aclanthology.org/2024.acl-long.829/), [Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent))
 - When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2407.18957), [Code](https://github.com/MingyuJ666/Stockagent))
 - The Effect of Liquidity on the Spoofability of Financial Markets, *ICAIF’24* [[Paper](https://strategicreasoning.org/wp-content/uploads/2024/11/ICAIF24proceedings_Spoofing.pdf)]
 
-### 🤔Reasoning
+## 🤔Reasoning
 
 - Evaluating LLMs’ Mathematical Reasoning in Financial Document Question Answering, *ACL’24* [[Paper](https://aclanthology.org/2024.findings-acl.231.pdf)]
-- LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory, *COLM’24* [Paper]
+- LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory, *COLM’24* [[Paper](https://arxiv.org/pdf/2408.02784)]
 - FinQAPT: Empowering Financial Decisions with End-to-End LLM-driven Question Answering Pipeline, *ICAIF’24* [[Paper](https://arxiv.org/pdf/2410.13959)]
 
-### 📁Datasets
+## 📁Datasets
 
-- Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context, *AAAI'24* ([Paper](https://arxiv.org/pdf/2309.07708), [Code](https://github.com/kah-ve/MarketGAN))
+- Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.07708)] [[Code](https://github.com/kah-ve/MarketGAN)]
 - DO WE NEED DOMAIN-SPECIFIC EMBEDDING MODELS? AN EMPIRICAL INVESTIGATION, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2409.18511v1)] [[Code](https://github.com/yixuantt/FinMTEB)]
-- UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models, Arxiv’24 [[Paper](https://arxiv.org/pdf/2410.14059)] [[Code](https://github.com/TobyYang7/UCFE-Benchmark)]
+- UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2410.14059)] [[Code](https://github.com/TobyYang7/UCFE-Benchmark)]
 - Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency, *COLING'24* [[Paper](https://arxiv.org/pdf/2403.18152)]
 - FNSPID: A Comprehensive Financial News Dataset in Time Series, *KDD'24* ([Paper](https://arxiv.org/abs/2402.06698)] [[Code](https://github.com/Zdong104/FNSPID_Financial_News_Dataset)]
 - StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series, *AAAI'23* [[Paper](https://arxiv.org/pdf/2301.09279)] [[Code](https://github.com/adlnlp/StockEmotions)]
 
-### 📚Survey
+## 📚Survey
 
-- A Survey of Large Language Models in Finance (FinLLMs), *ArXiv'24* ([Paper](https://arxiv.org/pdf/2402.02315))
-- A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2406.11903))
-- Large Language Model Agent in Financial Trading: A Survey, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2408.06361))
+- A Survey of Large Language Models in Finance (FinLLMs), *ArXiv'24* [[Paper](https://arxiv.org/pdf/2402.02315)]
+- A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2406.11903)]
+- Large Language Model Agent in Financial Trading: A Survey, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2408.06361)]
 - Revolutionizing Finance with LLMs: An Overview of Applications and Insights, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2401.11641)]
 
 ---
