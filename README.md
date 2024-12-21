@@ -52,15 +52,15 @@
 - Hierarchical Reinforced Trader(HRT): A Bi-Level Approach for Optimizing Stock Selection and Execution, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.14927)]
 - QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2402.03755)]
 - IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0663.pdf)]
-- MacMic: Executing Iceberg Orders via Hierarchical Reinforcement Learning, *IJCAI'24* ([Paper](https://www.ijcai.org/proceedings/2024/0664.pdf))
-- A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist, *KDD'24* ([Paper](https://arxiv.org/pdf/2402.18485))
-- MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading, *KDD'24* ([Paper](https://arxiv.org/pdf/2406.14537))
-- StockFormer: Learning Hybrid Trading Machines with Predictive Coding, *IJCAI'23* ([Paper](https://www.ijcai.org/proceedings/2023/0530.pdf))
+- MacMic: Executing Iceberg Orders via Hierarchical Reinforcement Learning, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0664.pdf)]
+- A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist, *KDD'24* [[Paper](https://arxiv.org/pdf/2402.18485)]
+- MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading, *KDD'24* [[Paper](https://arxiv.org/pdf/2406.14537)]
+- StockFormer: Learning Hybrid Trading Machines with Predictive Coding, *IJCAI'23* [[Paper](https://www.ijcai.org/proceedings/2023/0530.pdf)]
 
 ## 🤖Simulation
 
-- EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, *ACL'24* ([Paper](https://aclanthology.org/2024.acl-long.829/), [Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent))
-- When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2407.18957), [Code](https://github.com/MingyuJ666/Stockagent))
+- EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, *ACL'24* [[Paper](https://aclanthology.org/2024.acl-long.829/)] [[Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)]
+- When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2407.18957)] [[Code](https://github.com/MingyuJ666/Stockagent)]
 - The Effect of Liquidity on the Spoofability of Financial Markets, *ICAIF’24* [[Paper](https://strategicreasoning.org/wp-content/uploads/2024/11/ICAIF24proceedings_Spoofing.pdf)]
 
 ## 🤔Reasoning
@@ -75,7 +75,7 @@
 - DO WE NEED DOMAIN-SPECIFIC EMBEDDING MODELS? AN EMPIRICAL INVESTIGATION, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2409.18511v1)] [[Code](https://github.com/yixuantt/FinMTEB)]
 - UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2410.14059)] [[Code](https://github.com/TobyYang7/UCFE-Benchmark)]
 - Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency, *COLING'24* [[Paper](https://arxiv.org/pdf/2403.18152)]
-- FNSPID: A Comprehensive Financial News Dataset in Time Series, *KDD'24* ([Paper](https://arxiv.org/abs/2402.06698)] [[Code](https://github.com/Zdong104/FNSPID_Financial_News_Dataset)]
+- FNSPID: A Comprehensive Financial News Dataset in Time Series, *KDD'24* [[Paper](https://arxiv.org/abs/2402.06698)] [[Code](https://github.com/Zdong104/FNSPID_Financial_News_Dataset)]
 - StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series, *AAAI'23* [[Paper](https://arxiv.org/pdf/2301.09279)] [[Code](https://github.com/adlnlp/StockEmotions)]
 
 ## 📚Survey
