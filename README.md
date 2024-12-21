@@ -1,8 +1,8 @@
 # Awesome AI-In-Finance
 
 ![https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Introduction
 
@@ -10,9 +10,9 @@ Welcome to **Awesome-AI-In-Finance** a curated collection of high-quality papers
 
 ## Contents
 1. [Financial AI](#financial-ai)
-   - [Prediction](#prediction)
-   - [Portfolio Optimization](#portfolio-optimization)
-   - [Quantitative Trading](#quantitative-trading)
+   - [📈Prediction](#prediction)
+   - [💰Portfolio Optimization](#portfolio-optimization)
+   - [🔁Trading](#trading)
    - [Datasets](#datasets)
    - [Simulation](#simulation)
    - [Survey](#survey)
