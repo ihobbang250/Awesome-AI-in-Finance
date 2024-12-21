@@ -1,14 +1,6 @@
+#Awesome AI-In-Finance
 
 ![https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-[https://img.shields.io/github/downloads/wizard1203/Awesome-Edge-LLM/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey](https://img.shields.io/github/downloads/wizard1203/Awesome-Edge-LLM/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey)
-
-![https://img.shields.io/github/forks/wizard1203/Awesome-Edge-LLM.svg?style=social](https://img.shields.io/github/forks/wizard1203/Awesome-Edge-LLM.svg?style=social)
-
-![https://img.shields.io/github/stars/wizard1203/Awesome-Edge-LLM.svg?style=social](https://img.shields.io/github/stars/wizard1203/Awesome-Edge-LLM.svg?style=social)
-
-![https://img.shields.io/github/watchers/wizard1203/Awesome-Edge-LLM.svg?style=social](https://img.shields.io/github/watchers/wizard1203/Awesome-Edge-LLM.svg?style=social)
-
 ![https://img.shields.io/badge/License-GPLv3.0-turquoise.svg](https://img.shields.io/badge/License-GPLv3.0-turquoise.svg)
 
 # Introduction
