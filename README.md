@@ -6,21 +6,21 @@
 
 ## Introduction
 
-Welcome to **Awesome-LLM-.** a curated collection of high-quality papers exploring the intersection of Large Language Models (LLMs) and Financial AI.
+Welcome to **Awesome-AI-In-Finance** a curated collection of high-quality papers exploring the intersection of Large Language Models (LLMs) and Financial AI.
 
 ## Contents
 1. [Financial AI](#financial-ai)
-   - [Prediction](##prediction)
-   - [Portfolio Optimization](##portfolio-optimization)
-   - [Quantitative Trading](##quantitative-trading)
-   - [Datasets](##datasets)
-   - [Simulation](###simulation)
-   - [Survey](###survey)
-2. [LLM Core](##llm-core)
-   - [Behavior](###behavior)
-   - [Embedding](###embedding)
-   - [Retrieval Augmentation Generation](###retrieval-augmentation-generation)
-3. [Agent Core](###agent-core)
+   - [Prediction](#prediction)
+   - [Portfolio Optimization](#portfolio-optimization)
+   - [Quantitative Trading](#quantitative-trading)
+   - [Datasets](#datasets)
+   - [Simulation](#simulation)
+   - [Survey](#survey)
+2. [LLM Core](#llm-core)
+   - [Behavior](#behavior)
+   - [Embedding](#embedding)
+   - [Retrieval Augmentation Generation](#retrieval-augmentation-generation)
+3. [Agent Core](#agent-core)
 
 ## Financial AI
 
