@@ -113,7 +113,7 @@ Welcome to star & submit a PR to this repo!
 @misc{Awesome-AI-In-Finance@2024,
   title={Awesome-AI-In-Finance},
   url={https://github.com/ihobbang250/Awesome-AI-in-Finance},
-  author={H. Lee},
+  author={Hoyoung Lee},
   year={2024}
 }
 ```
