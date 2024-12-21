@@ -4,9 +4,9 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Introduction
+> Welcome to **Awesome-AI-In-Finance**, a curated collection of high-quality papers exploring the intersection of Artificial Intelligence (AI) and Finance. Contributions are highly encouraged—feel free to suggest additions or improvements!
 
-Welcome to **Awesome-AI-In-Finance** a curated collection of high-quality papers exploring the intersection of Large Language Models (LLMs) and Financial AI.
+---
 
 ## Contents
 1. [Financial AI](#financial-ai)
@@ -17,11 +17,8 @@ Welcome to **Awesome-AI-In-Finance** a curated collection of high-quality papers
    - [🤔Reasoning](#reasoning)
    - [📁Datasets](#datasets)
    - [📚Survey](#survey)
-2. [LLM Core](#llm-core)
-   - [Behavior](#behavior)
-   - [Embedding](#embedding)
-   - [Retrieval Augmentation Generation](#retrieval-augmentation-generation)
-3. [Agent Core](#agent-core)
+   
+---
 
 ## Financial AI
 
@@ -91,6 +88,7 @@ Welcome to **Awesome-AI-In-Finance** a curated collection of high-quality papers
 - Large Language Model Agent in Financial Trading: A Survey, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2408.06361))
 - Revolutionizing Finance with LLMs: An Overview of Applications and Insights, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2401.11641)]
 
+---
 
 ## Contribute
 
