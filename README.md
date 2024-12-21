@@ -51,6 +51,7 @@
 - Automate Strategy Finding with LLM in Quant investment, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2409.06289)]
 - Hierarchical Reinforced Trader(HRT): A Bi-Level Approach for Optimizing Stock Selection and Execution, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.14927)]
 - QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2402.03755)]
+- CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading *EMNLP'24* [[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)]
 - IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0663.pdf)]
 - MacMic: Executing Iceberg Orders via Hierarchical Reinforcement Learning, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0664.pdf)]
 - A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist, *KDD'24* [[Paper](https://arxiv.org/pdf/2402.18485)]
@@ -81,7 +82,7 @@
 ## 📚Survey
 
 - A Survey of Large Language Models in Finance (FinLLMs), *ArXiv'24* [[Paper](https://arxiv.org/pdf/2402.02315)]
-- A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2406.11903)]
+- A Survey of Financial AI: Architectures, Advances and Open Challenges, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.12747)]
 - Large Language Model Agent in Financial Trading: A Survey, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2408.06361)]
 - Revolutionizing Finance with LLMs: An Overview of Applications and Insights, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2401.11641)]
 
