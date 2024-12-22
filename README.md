@@ -4,23 +4,27 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-> Welcome to **Awesome-AI-In-Finance**, a curated collection of high-quality papers exploring the intersection of Artificial Intelligence (AI) and Finance. Contributions are highly encouraged—feel free to suggest additions or improvements!
+> Welcome to **Awesome-AI-In-Finance**, a curated collection of high-quality papers exploring the intersection of Artificial Intelligence (AI) and Finance. This repository highlights groundbreaking research in Financial AI while also introducing potential core AI technologies with the capacity to transform finance. Contributions are highly encouraged—feel free to suggest additions or improvements to enrich this growing resource!
 
 ---
 
 ## Contents
-- [📈Prediction](#prediction)
-- [💰Investment Management](#investment-management)
-- [🔁Trading](#trading)
-- [🤖Simulation](#simulation)
-- [🤔Reasoning](#reasoning)
-- [📁Datasets](#datasets)
-- [📚Survey](#survey)
+### Financial AI
+- [📈 Prediction](#prediction)
+- [💰 Investment Management](#investment-management)
+- [🔁 Trading](#trading)
+- [🏃‍➡️ Simulation](#simulation)
+- [🤔 Reasoning](#reasoning)
+- [📁 Datasets](#datasets)
+- [📚 Survey](#survey)
+
+### AI Idea
+- [🧞‍♂️ LLM](#llm)
+- [🤖 Agent](#agent)
    
 ---
 
 ## 📈Prediction
-
 - Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting, *KDD'25* [[Paper](https://arxiv.org/pdf/2409.15662)]
 - CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph, *AAAI'24* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770)]
 - MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction, *AAAI'24* [[Paper](https://arxiv.org/pdf/2402.06633)]
@@ -38,14 +42,12 @@
 - FinReport: Explainable Stock Earnings Forecasting via News Factor Analyzing Model, *WWW'24* [[Paper](https://arxiv.org/abs/2403.02647)]
 
 ## 💰Investment Management
-
 - Mitigating Extremal Risks: A Network-Based Portfolio Strategy, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2409.12208v1)]
 - Temporal Representation Learning for Stock Similarities and Its Applications in Investment Management, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2407.13751)]
 - Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools, *WWW'24* [[paper](https://arxiv.org/pdf/2311.10801)]
 - FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition, *KDD'24* [[paper](https://dl.acm.org/doi/10.1145/3637528.3671668)]
 
 ## 🔁Trading
-
 - EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.12891)]
 - Can Large Language Models Mine Interpretable Financial Factors More Effectively? A Neural-Symbolic Factor Mining Agent Model, *ACL’24* [[Paper](https://aclanthology.org/2024.findings-acl.233.pdf)]
 - Automate Strategy Finding with LLM in Quant investment, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2409.06289)]
@@ -59,19 +61,16 @@
 - StockFormer: Learning Hybrid Trading Machines with Predictive Coding, *IJCAI'23* [[Paper](https://www.ijcai.org/proceedings/2023/0530.pdf)]
 
 ## 🤖Simulation
-
 - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, *ACL'24* [[Paper](https://aclanthology.org/2024.acl-long.829/)] [[Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)]
 - When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2407.18957)] [[Code](https://github.com/MingyuJ666/Stockagent)]
 - The Effect of Liquidity on the Spoofability of Financial Markets, *ICAIF’24* [[Paper](https://strategicreasoning.org/wp-content/uploads/2024/11/ICAIF24proceedings_Spoofing.pdf)]
 
 ## 🤔Reasoning
-
 - Evaluating LLMs’ Mathematical Reasoning in Financial Document Question Answering, *ACL’24* [[Paper](https://aclanthology.org/2024.findings-acl.231.pdf)]
 - LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory, *COLM’24* [[Paper](https://arxiv.org/pdf/2408.02784)]
 - FinQAPT: Empowering Financial Decisions with End-to-End LLM-driven Question Answering Pipeline, *ICAIF’24* [[Paper](https://arxiv.org/pdf/2410.13959)]
 
 ## 📁Datasets
-
 - Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.07708)] [[Code](https://github.com/kah-ve/MarketGAN)]
 - DO WE NEED DOMAIN-SPECIFIC EMBEDDING MODELS? AN EMPIRICAL INVESTIGATION, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2409.18511v1)] [[Code](https://github.com/yixuantt/FinMTEB)]
 - UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2410.14059)] [[Code](https://github.com/TobyYang7/UCFE-Benchmark)]
@@ -80,7 +79,6 @@
 - StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series, *AAAI'23* [[Paper](https://arxiv.org/pdf/2301.09279)] [[Code](https://github.com/adlnlp/StockEmotions)]
 
 ## 📚Survey
-
 - A Survey of Large Language Models in Finance (FinLLMs), *ArXiv'24* [[Paper](https://arxiv.org/pdf/2402.02315)]
 - A Survey of Financial AI: Architectures, Advances and Open Challenges, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.12747)]
 - Large Language Model Agent in Financial Trading: A Survey, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2408.06361)]
@@ -88,6 +86,23 @@
 
 ---
 
+## 🧞‍♂️LLM
+- The Unreasonable Ineffectiveness of the Deeper Layers, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2403.17887)]
+- THE SEMANTIC HUB HYPOTHESIS:LANGUAGE MODELS SHARE SEMANTIC REPRESENTATIONS ACROSS LANGUAGES AND MODALITIES, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04986)]
+- Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
+- IN-CONTEXT LANGUAGE LEARNING: ARCHITECTURES AND ALGORITHMS, *ICML'24* [[Paper](https://openreview.net/pdf?id=3Z9CRr5srL)]
+- LARGE LANGUAGE MODELS ARE NOT ROBUST MULTIPLE CHOICE SELECTORS, *ICLR'24* [[Paper](https://openreview.net/pdf?id=shr9PXz7T0)]
+- RETRIEVAL MEETS LONG CONTEXT LARGE LANGUAGE MODELS, *ICLR'24* [[Paper](https://openreview.net/pdf?id=xw5nxFWMlo)]
+- SURE: SUMMARIZING RETRIEVALS USING ANSWER CANDIDATES FOR OPEN-DOMAIN QA OF LLMS, *ICLR'24* [[Paper](https://openreview.net/pdf?id=w4DW6qkRmt)]
+- WHEN SCALING MEETS LLM FINETUNING: THE EFFECT OF DATA, MODEL AND FINETUNING METHOD, *ICLR'24* [[Paper](https://openreview.net/pdf?id=5HCnKDeTws)]
+- Self-Consistency Improves Chain of Thought Reasoning in Language Models, *ICLR'23* [[Paper](https://arxiv.org/pdf/2203.11171)]
+- QLORA: Efficient Finetuning of Quantized LLMs, *NeurlIPS'23* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)]
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, *NeurIPS'22* [[Paper](https://arxiv.org/pdf/2201.11903)]
+
+
+## 🤖Agent
+
+---
 ## Contribute
 
 Welcome to star & submit a PR to this repo!
