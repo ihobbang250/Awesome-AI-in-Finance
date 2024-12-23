@@ -13,7 +13,7 @@
 - [📈 Prediction](#prediction)
 - [💰 Investment Management](#investment-management)
 - [🔁 Trading](#trading)
-- [🏃‍➡️ Simulation](#simulation)
+- [🤑 Finance Agent](#finance-agent)
 - [🤔 Reasoning](#reasoning)
 - [📁 Datasets](#datasets)
 - [📚 Survey](#survey)
@@ -21,7 +21,7 @@
 ### AI Idea
 - [🧞‍♂️ LLM Core](#llm-core)
 - [🔎 RAG](#rag)
-- [🤖 Agent](#agent)
+- [🤖 Agent Core](#agent-core)
    
 ---
 
@@ -49,18 +49,20 @@
 ## 🔁Trading
 - Automate Strategy Finding with LLM in Quant Investment, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2409.06289)]
 - Can Large Language Models Mine Interpretable Financial Factors More Effectively? A Neural-Symbolic Factor Mining Agent Model, *ACL’24* [[Paper](https://aclanthology.org/2024.findings-acl.233.pdf)]
-- CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading, *EMNLP'24* [[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)]
 - EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.12891)]
 - Hierarchical Reinforced Trader (HRT): A Bi-Level Approach for Optimizing Stock Selection and Execution, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.14927)]
 - IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0663.pdf)]
 - MacMic: Executing Iceberg Orders via Hierarchical Reinforcement Learning, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0664.pdf)]
 - MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading, *KDD'24* [[Paper](https://arxiv.org/pdf/2406.14537)]
-- QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model, *ArXiv’24* [[Paper](https://arxiv.org/pdf/2402.03755)]
-- A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist, *KDD'24* [[Paper](https://arxiv.org/pdf/2402.18485)]
 - StockFormer: Learning Hybrid Trading Machines with Predictive Coding, *IJCAI'23* [[Paper](https://www.ijcai.org/proceedings/2023/0530.pdf)]
 
-## 🤖Simulation
+## 🤑Finance Agent
+- A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist, *KDD'24* [[Paper](https://arxiv.org/pdf/2402.18485)]
+- CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading, *EMNLP'24* [[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)]
 - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, *ACL'24* [[Paper](https://aclanthology.org/2024.acl-long.829/)] [[Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)]
+- Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research, *ICAIF'24* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698645)]
+- FinRobot: AI Agent for Equity Research and Valuation with Large Language Models, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.08804)]
+- QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model, *ArXiv’24* [[Paper](https://arxiv.org/pdf/2402.03755)]
 - The Effect of Liquidity on the Spoofability of Financial Markets, *ICAIF’24* [[Paper](https://strategicreasoning.org/wp-content/uploads/2024/11/ICAIF24proceedings_Spoofing.pdf)]
 - When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2407.18957)] [[Code](https://github.com/MingyuJ666/Stockagent)]
 
@@ -90,8 +92,11 @@
 - In-Context Language Learning: Architectures and Algorithms, *ICML'24* [[Paper](https://openreview.net/pdf?id=3Z9CRr5srL)]
 - Large Language Models Are Not Robust Multiple Choice Selectors, *ICLR'24* [[Paper](https://openreview.net/pdf?id=shr9PXz7T0)]
 - Large Language Models Cannot Self-Correct Reasoning Yet, *ICLR'24* [[Paper](https://arxiv.org/pdf/2310.01798)]
+- Looking Inward: Language Models Can Learn About Themselves by Introspection, *ICLR'24* [[Paper](https://arxiv.org/abs/2410.13787)]
 - LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.02707)]
+- Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.11163)]
 - Scaling Laws for Precision, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04330)]
+- Personalization of Large Language Models: A Survey, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.00027)]
 - The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04986)]
 - The Unreasonable Ineffectiveness of the Deeper Layers, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2403.17887)]
 - Training Large Language Models to Reason in a Continuous Latent Space, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2412.06769)]
@@ -107,21 +112,28 @@
 - Retrieval meets Long Context Large Language Models, *ICLR'24* [[Paper](https://openreview.net/pdf?id=xw5nxFWMlo)]
 - SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs, *ICLR'24* [[Paper](https://openreview.net/pdf?id=w4DW6qkRmt)]
 
-## 🤖Agent
+## 🤖Agent Core
 - MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems, *AAAI'25* [[Paper](https://arxiv.org/pdf/2408.09955)]
 - AFLOW: AUTOMATING AGENTIC WORKFLOW GENERATION, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.10762)]
 - Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2403.12881)]
+- Agentic Information Retrieval, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.09713)]
 - Mixture-of-Agents Enhances Large Language Model Capabilities, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2406.04692)] [[Code](https://github.com/togethercomputer/moa)]
 - MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework, *ICLR'24* [[Paper](https://arxiv.org/pdf/2308.00352)] [[Code](https://github.com/geekan/MetaGPT?tab=readme-ov-file)]
 - Offline Training of Language Model Agents with Functions as Learnable Weights, *ICML'24* [[Paper](https://arxiv.org/pdf/2402.11359)]
 - Large Language Models as Commonsense Knowledgefor Large-Scale Task Planning, *NeurIPS'23* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf)]
 ---
 ## Contribute
-
 Welcome to star & submit a PR to this repo!
 
 ## Citations
-
+```
+@misc{Awesome-AI-in-Finance@2024,
+  title={Awesome-AI-in-Finance},
+  author={Hoyoung Lee}, 
+  url={https://github.com/ihobbang250/Awesome-AI-in-Finance},
+  year={2024}
+}
+```
 ```
 @article{liu2024survey,
   title={A Survey of Financial AI: Architectures, Advances and Open Challenges},
@@ -130,14 +142,5 @@ Welcome to star & submit a PR to this repo!
   url={https://github.com/junhua/awesome-finance-ai-papers/},
   year={2024},
   publisher={arXiv}
-}
-```
-
-```
-@misc{Awesome-AI-In-Finance@2024,
-  title={Awesome-AI-In-Finance},
-  url={https://github.com/ihobbang250/Awesome-AI-in-Finance},
-  author={Hoyoung Lee},
-  year={2024}
 }
 ```
