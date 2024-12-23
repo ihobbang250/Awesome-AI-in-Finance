@@ -87,21 +87,32 @@
 ---
 
 ## 🧞‍♂️LLM
+- Improving Retrieval Augmented Language Model with Self-Reasoning, *AAAI'25* [[Paper](https://arxiv.org/pdf/2407.19813)]
+- Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.21272)]
+- Training Large Language Models to Reason in a Continuous Latent Space, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2412.06769)]
+- Scaling Laws for Precision, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2411.04330)]
+- LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.02707)]
 - The Unreasonable Ineffectiveness of the Deeper Layers, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2403.17887)]
 - THE SEMANTIC HUB HYPOTHESIS:LANGUAGE MODELS SHARE SEMANTIC REPRESENTATIONS ACROSS LANGUAGES AND MODALITIES, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04986)]
 - Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
 - IN-CONTEXT LANGUAGE LEARNING: ARCHITECTURES AND ALGORITHMS, *ICML'24* [[Paper](https://openreview.net/pdf?id=3Z9CRr5srL)]
 - LARGE LANGUAGE MODELS ARE NOT ROBUST MULTIPLE CHOICE SELECTORS, *ICLR'24* [[Paper](https://openreview.net/pdf?id=shr9PXz7T0)]
+- LARGE LANGUAGE MODELS CANNOT SELF-CORRECT REASONING YET, *ICLR'24* [[Paper](https://arxiv.org/pdf/2310.01798)]
 - RETRIEVAL MEETS LONG CONTEXT LARGE LANGUAGE MODELS, *ICLR'24* [[Paper](https://openreview.net/pdf?id=xw5nxFWMlo)]
 - SURE: SUMMARIZING RETRIEVALS USING ANSWER CANDIDATES FOR OPEN-DOMAIN QA OF LLMS, *ICLR'24* [[Paper](https://openreview.net/pdf?id=w4DW6qkRmt)]
 - WHEN SCALING MEETS LLM FINETUNING: THE EFFECT OF DATA, MODEL AND FINETUNING METHOD, *ICLR'24* [[Paper](https://openreview.net/pdf?id=5HCnKDeTws)]
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models, *ICLR'23* [[Paper](https://arxiv.org/pdf/2203.11171)]
-- QLORA: Efficient Finetuning of Quantized LLMs, *NeurlIPS'23* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)]
+- QLORA: Efficient Finetuning of Quantized LLMs, *NeurIPS'23* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)]
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, *NeurIPS'22* [[Paper](https://arxiv.org/pdf/2201.11903)]
 
-
 ## 🤖Agent
-
+- MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems, *AAAI'25* [[Paper](https://arxiv.org/pdf/2408.09955)]
+- AFLOW: AUTOMATING AGENTIC WORKFLOW GENERATION, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.10762)]
+- Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2403.12881)]
+- Mixture-of-Agents Enhances Large Language Model Capabilities, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2406.04692)] [[Code](https://github.com/togethercomputer/moa)]
+- MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework, *ICLR'24* [[Paper](https://arxiv.org/pdf/2308.00352)] [[Code](https://github.com/geekan/MetaGPT?tab=readme-ov-file)]
+- Offline Training of Language Model Agents with Functions as Learnable Weights, *ICML'24* [[Paper](https://arxiv.org/pdf/2402.11359)]
+- Large Language Models as Commonsense Knowledgefor Large-Scale Task Planning, *NeurIPS'23* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf)]
 ---
 ## Contribute
 
