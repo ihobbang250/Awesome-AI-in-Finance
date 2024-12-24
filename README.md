@@ -89,6 +89,7 @@
 
 ## 🧞‍♂️LLM Core
 - Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.21272)]
+- Are Language Models Actually Useful for Time Series Forecasting?, *NeurIPS'24* [[Paper](https://openreview.net/pdf?id=DV15UbHCY1)]
 - In-Context Language Learning: Architectures and Algorithms, *ICML'24* [[Paper](https://openreview.net/pdf?id=3Z9CRr5srL)]
 - Large Language Models Are Not Robust Multiple Choice Selectors, *ICLR'24* [[Paper](https://openreview.net/pdf?id=shr9PXz7T0)]
 - Large Language Models Cannot Self-Correct Reasoning Yet, *ICLR'24* [[Paper](https://arxiv.org/pdf/2310.01798)]
