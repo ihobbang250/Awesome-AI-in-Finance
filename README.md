@@ -117,7 +117,7 @@
 
 ## 🤖Agent Core
 - MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems, *AAAI'25* [[Paper](https://arxiv.org/pdf/2408.09955)]
-- AFLOW: AUTOMATING AGENTIC WORKFLOW GENERATION, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.10762)]
+- AFlow: Automating Agentic Workflow Generation, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.10762)]
 - Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2403.12881)]
 - Agentic Information Retrieval, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.09713)]
 - Mixture-of-Agents Enhances Large Language Model Capabilities, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2406.04692)] [[Code](https://github.com/togethercomputer/moa)]
