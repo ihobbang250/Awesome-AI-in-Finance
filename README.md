@@ -96,11 +96,12 @@
 - Looking Inward: Language Models Can Learn About Themselves by Introspection, *ICLR'24* [[Paper](https://arxiv.org/abs/2410.13787)]
 - LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.02707)]
 - Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.11163)]
+- Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.12580)]
 - Scaling Laws for Precision, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04330)]
 - Personalization of Large Language Models: A Survey, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.00027)]
 - The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04986)]
 - The Unreasonable Ineffectiveness of the Deeper Layers, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2403.17887)]
-- Training Large Language Models to Reason in a Continuous Latent Space, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2412.06769)]
+- Training Large Language Models to Reason in a Continuous Latent Space, *Meta'24* [[Paper](https://arxiv.org/pdf/2412.06769)]
 - Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
 - When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method, *ICLR'24* [[Paper](https://openreview.net/pdf?id=5HCnKDeTws)]
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models, *ICLR'23* [[Paper](https://arxiv.org/pdf/2203.11171)]
@@ -109,6 +110,7 @@
 
 ## 🔎RAG
 - Improving Retrieval Augmented Language Model with Self-Reasoning, *AAAI'25* [[Paper](https://arxiv.org/pdf/2407.19813)]
+- Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models, *Arxiv'25* [[Paper](https://arxiv.org/pdf/2411.19443)]
 - Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.05983)]
 - Retrieval meets Long Context Large Language Models, *ICLR'24* [[Paper](https://openreview.net/pdf?id=xw5nxFWMlo)]
 - SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs, *ICLR'24* [[Paper](https://openreview.net/pdf?id=w4DW6qkRmt)]
