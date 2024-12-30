@@ -120,6 +120,7 @@
 - AFlow: Automating Agentic Workflow Generation, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.10762)]
 - Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2403.12881)]
 - Agentic Information Retrieval, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2410.09713)]
+- Can Graph Learning Improve Planning in LLM-based Agents?, *NeurIPS'24* [[Paper](https://arxiv.org/pdf/2405.19119)]
 - Mixture-of-Agents Enhances Large Language Model Capabilities, *Arxiv'24* [[Paper](https://arxiv.org/pdf/2406.04692)] [[Code](https://github.com/togethercomputer/moa)]
 - MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework, *ICLR'24* [[Paper](https://arxiv.org/pdf/2308.00352)] [[Code](https://github.com/geekan/MetaGPT?tab=readme-ov-file)]
 - Offline Training of Language Model Agents with Functions as Learnable Weights, *ICML'24* [[Paper](https://arxiv.org/pdf/2402.11359)]
