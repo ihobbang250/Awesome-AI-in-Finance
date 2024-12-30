@@ -61,6 +61,7 @@
 - CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading, *EMNLP'24* [[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)]
 - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, *ACL'24* [[Paper](https://aclanthology.org/2024.acl-long.829/)] [[Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)]
 - Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research, *ICAIF'24* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698645)]
+- FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making, *NeurIPS'24* [[Paper](https://arxiv.org/pdf/2407.06567)]
 - FinRobot: AI Agent for Equity Research and Valuation with Large Language Models, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.08804)]
 - QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model, *ArXiv’24* [[Paper](https://arxiv.org/pdf/2402.03755)]
 - The Effect of Liquidity on the Spoofability of Financial Markets, *ICAIF’24* [[Paper](https://strategicreasoning.org/wp-content/uploads/2024/11/ICAIF24proceedings_Spoofing.pdf)]
