@@ -19,10 +19,10 @@
 - [📚 Survey](#survey)
 
 ### AI Idea
+- [💡 Embedding](#embedding)
 - [🧞‍♂️ LLM Core](#llm-core)
 - [🔎 RAG](#rag)
-- [🤖 Agent Core](#agent-core)
-   
+- [🤖 Agent Core](#agent-core)  
 ---
 
 ## 📈Prediction
@@ -87,6 +87,10 @@
 - Revolutionizing Finance with LLMs: An Overview of Applications and Insights, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2401.11641)]
 
 ---
+## 💡Embedding
+- Embedding-Aligned Language Models, *NeurIPS'24* [[Paper](https://arxiv.org/pdf/2406.00024)]
+- Demystifying Embedding Spaces using Large Language Models, *ICLR'24* [[Paper](https://arxiv.org/pdf/2310.04475)]
+- Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
 
 ## 🧞‍♂️LLM Core
 - Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.21272)]
@@ -99,11 +103,8 @@
 - Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.11163)]
 - Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.12580)]
 - Scaling Laws for Precision, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04330)]
-- Personalization of Large Language Models: A Survey, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.00027)]
 - The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04986)]
-- The Unreasonable Ineffectiveness of the Deeper Layers, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2403.17887)]
 - Training Large Language Models to Reason in a Continuous Latent Space, *Meta'24* [[Paper](https://arxiv.org/pdf/2412.06769)]
-- Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
 - When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method, *ICLR'24* [[Paper](https://openreview.net/pdf?id=5HCnKDeTws)]
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models, *ICLR'23* [[Paper](https://arxiv.org/pdf/2203.11171)]
 - QLORA: Efficient Finetuning of Quantized LLMs, *NeurIPS'23* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)]
