@@ -93,7 +93,7 @@
 - Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
 
 ## 🧞‍♂️LLM Core
-- Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models
+- Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models, *ICLR'25* [[Paper](https://arxiv.org/pdf/2411.14257)]
 - LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations, *ICLR'25* [[Paper](https://arxiv.org/pdf/2410.02707)]
 - Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.21272)]
 - Are Language Models Actually Useful for Time Series Forecasting?, *NeurIPS'24* [[Paper](https://openreview.net/pdf?id=DV15UbHCY1)]
