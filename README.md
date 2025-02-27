@@ -49,7 +49,6 @@
 ## 🔁Trading
 - Automate Strategy Finding with LLM in Quant Investment, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2409.06289)]
 - Can Large Language Models Mine Interpretable Financial Factors More Effectively? A Neural-Symbolic Factor Mining Agent Model, *ACL’24* [[Paper](https://aclanthology.org/2024.findings-acl.233.pdf)]
-- EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.12891)]
 - Hierarchical Reinforced Trader (HRT): A Bi-Level Approach for Optimizing Stock Selection and Execution, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.14927)]
 - IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0663.pdf)]
 - MacMic: Executing Iceberg Orders via Hierarchical Reinforcement Learning, *IJCAI'24* [[Paper](https://www.ijcai.org/proceedings/2024/0664.pdf)]
@@ -68,6 +67,7 @@
 - When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2407.18957)] [[Code](https://github.com/MingyuJ666/Stockagent)]
 
 ## 🤔Reasoning
+- Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance, *Arxiv'25* [[Paper](https://arxiv.org/pdf/2502.08127)]
 - Evaluating LLMs’ Mathematical Reasoning in Financial Document Question Answering, *ACL’24* [[Paper](https://aclanthology.org/2024.findings-acl.231.pdf)]
 - FinQAPT: Empowering Financial Decisions with End-to-End LLM-driven Question Answering Pipeline, *ICAIF’24* [[Paper](https://arxiv.org/pdf/2410.13959)]
 - LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory, *COLM’24* [[Paper](https://arxiv.org/pdf/2408.02784)]
@@ -78,7 +78,6 @@
 - Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency, *COLING'24* [[Paper](https://arxiv.org/pdf/2403.18152)]
 - Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.07708)] [[Code](https://github.com/kah-ve/MarketGAN)]
 - UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2410.14059)] [[Code](https://github.com/TobyYang7/UCFE-Benchmark)]
-- StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series, *AAAI'23* [[Paper](https://arxiv.org/pdf/2301.09279)] [[Code](https://github.com/adlnlp/StockEmotions)]
 
 ## 📚Survey
 - A Survey of Financial AI: Architectures, Advances and Open Challenges, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.12747)]
@@ -88,19 +87,20 @@
 
 ---
 ## 💡Embedding
+- EmbedLLM: Learning Compact Representations of Large Language Models, *ICLR'25* [[Paper](https://arxiv.org/pdf/2410.02223)]
 - Embedding-Aligned Language Models, *NeurIPS'24* [[Paper](https://arxiv.org/pdf/2406.00024)]
 - Demystifying Embedding Spaces using Large Language Models, *ICLR'24* [[Paper](https://arxiv.org/pdf/2310.04475)]
 - Understanding LLM Embeddings for Regression, *DeepMind'24* [[Paper](https://arxiv.org/pdf/2411.14708)]
 
 ## 🧞‍♂️LLM Core
+- Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models
+- LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations, *ICLR'25* [[Paper](https://arxiv.org/pdf/2410.02707)]
 - Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.21272)]
 - Are Language Models Actually Useful for Time Series Forecasting?, *NeurIPS'24* [[Paper](https://openreview.net/pdf?id=DV15UbHCY1)]
 - In-Context Language Learning: Architectures and Algorithms, *ICML'24* [[Paper](https://openreview.net/pdf?id=3Z9CRr5srL)]
 - Large Language Models Are Not Robust Multiple Choice Selectors, *ICLR'24* [[Paper](https://openreview.net/pdf?id=shr9PXz7T0)]
 - Large Language Models Cannot Self-Correct Reasoning Yet, *ICLR'24* [[Paper](https://arxiv.org/pdf/2310.01798)]
 - Looking Inward: Language Models Can Learn About Themselves by Introspection, *ICLR'24* [[Paper](https://arxiv.org/abs/2410.13787)]
-- LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.02707)]
-- Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2410.11163)]
 - Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.12580)]
 - Scaling Laws for Precision, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04330)]
 - The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.04986)]
