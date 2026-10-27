@@ -78,6 +78,7 @@
 - Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency, *COLING'24* [[Paper](https://arxiv.org/pdf/2403.18152)]
 - Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context, *AAAI'24* [[Paper](https://arxiv.org/pdf/2309.07708)] [[Code](https://github.com/kah-ve/MarketGAN)]
 - UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models, *Arxiv’24* [[Paper](https://arxiv.org/pdf/2410.14059)] [[Code](https://github.com/TobyYang7/UCFE-Benchmark)]
+- [LevelBench-100](https://github.com/levelcfo/levelbench-100) - Live 75-run agentic accounting and multi-system ERP close benchmark dataset across Claude, GPT, and Gemini ([Report & Leaderboard](https://levelcfo.com/benchmarks/agentic-accounting/)).
 
 ## 📚Survey
 - A Survey of Financial AI: Architectures, Advances and Open Challenges, *ArXiv'24* [[Paper](https://arxiv.org/pdf/2411.12747)]
